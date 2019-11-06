@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Jekyll template page from [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll#build-your-website-in-3-steps)
+
 You can use the [editor on GitHub](https://github.com/davixus/davixus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
