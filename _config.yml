@@ -21,10 +21,12 @@ description: My curiosities on science, passion on humanity, and reflections on 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  Resources:    
     - Repo: "https://github.com/davixus/davixus.github.io"
-  Author's home: "http://deanattali.com"
+  Evolution:
+    - Fast.ai: "https://www.fast.ai/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "https://davixus.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
